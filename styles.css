@@ -64,6 +64,12 @@ body {
     font-size: small;
     text-align: center;
   }
+    
+   h2 {
+    font-size: small;
+    text-align: center;
+  }
+
 
   .topnav a {
     float: left;
